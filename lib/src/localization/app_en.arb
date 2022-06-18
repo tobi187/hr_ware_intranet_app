@@ -1,0 +1,6 @@
+{
+  "appTitle": "hr_ware_intranet_app",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
